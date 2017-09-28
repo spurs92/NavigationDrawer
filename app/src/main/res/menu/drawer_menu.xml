@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_gallery"
+        android:title="Gallery"
+        android:icon="@android:drawable/ic_menu_gallery"/>
+
+    <item android:id="@+id/menu_send"
+        android:title="Send"
+        android:icon="@android:drawable/ic_menu_send"/>
+
+    <item android:id="@+id/menu_calendar"
+        android:title="Calendar"
+        android:icon="@mipmap/ic_launcher_national"/>
+
+    <item android:title="Your Account">
+        <menu>
+            <item android:id="@+id/menu_aa"
+                android:title="aaa"/>
+            <item android:id="@+id/menu_bb"
+                android:title="bbb"/>
+            <item android:id="@+id/menu_cc"
+                android:title="bbb"/>
+            <item android:id="@+id/menu_dd"
+                android:title="bbb"/>
+            <item android:id="@+id/menu_ee"
+                android:title="bbb"/>
+            <item android:id="@+id/menu_ff"
+                android:title="bbb"/>
+            <item android:id="@+id/menu_gg"
+                android:title="bbb"/>
+            <item android:id="@+id/menu_hh"
+                android:title="bbb"/>
+
+        </menu>
+    </item>
+</menu>
